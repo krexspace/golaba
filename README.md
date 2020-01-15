@@ -1,0 +1,2 @@
+# golaba
+Go test bed
